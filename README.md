@@ -50,7 +50,7 @@ These are the acuracy for the 1,2 dataset{'amazon_SURF_L10','Caltech10_SURF_L10'
 
 ```
 
-## Optimization Function
+## Objective Function
 Based on the type of output needed we have to change the optimization function.
 ```python
 For MMD:
