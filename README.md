@@ -10,7 +10,7 @@ Function MTLF will be resulting the output showed below.
 
 # hyps  and combination of data sets would print the accuracy in each iteration
 For example:
->> demo
+>> demo(PIE)
 Load data...
 1 2
 Init parameters...
@@ -36,7 +36,7 @@ Function MTLF will be resulting the output showed below.
 
 # hyps  and combination of data sets would print the accuracy in each iteration
 For example:
->> demo_1
+>> demo_1(Caltech)
 Load data...
 1 2
 Init parameters...
